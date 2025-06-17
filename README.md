@@ -1,6 +1,6 @@
 
 # About Me:
-I'm currently an undergraduate of AIML<br>I'm currently learning Frontend development<br>I'm passionate in learning data structures and algorithms<br>You can reach me through: LinkedIn-www.linkedin.com/in/kranthi-teja-talatam-3a4972229<br><br><br>
+AIML Graduate<br>I'm currently learning Frontend development<br>I'm passionate in learning data structures and algorithms<br>You can reach me through: LinkedIn-www.linkedin.com/in/kranthi-teja-talatam-3a4972229<br><br><br>
 
 
 ## 🌐 Socials:
